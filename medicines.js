@@ -4523,7 +4523,1483 @@ const medicines = {
         "category": "Acid Reducer",
         "company": "GlaxoSmithKline",
         "price": 10.99
-      }
+      },
+      {
+        "name": "Atorvastatin",
+        "category": "Cholesterol Medication",
+        "company": "Pfizer",
+        "price": 21.25
+      },
+      {
+        "name": "Cephalexin",
+        "category": "Antibiotic",
+        "company": "GlaxoSmithKline",
+        "price": 12.99
+      },
+      {
+        "name": "Aripiprazole",
+        "category": "Antipsychotic",
+        "company": "Otsuka Pharmaceutical",
+        "price": 19.49
+      },
+      {
+        "name": "Dulcolax",
+        "category": "Laxative",
+        "company": "Bayer",
+        "price": 8.75
+      },
+      {
+        "name": "Fexofenadine",
+        "category": "Antihistamine",
+        "company": "Sanofi",
+        "price": 14.25
+      },
+      {
+        "name": "Citalopram",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 16.99
+      },
+      {
+        "name": "Prednisolone",
+        "category": "Anti-Inflammatory",
+        "company": "Pfizer",
+        "price": 11.49
+      },
+      {
+        "name": "Tamsulosin",
+        "category": "Prostate Medication",
+        "company": "Merck",
+        "price": 13.75
+      },
+      {
+        "name": "Diltiazem",
+        "category": "Blood Pressure Medication",
+        "company": "Pfizer",
+        "price": 10.49
+      },
+      {
+        "name": "Fluticasone/Salmeterol",
+        "category": "Asthma Medication",
+        "company": "GlaxoSmithKline",
+        "price": 22.99
+      },
+      {
+        "name": "Venlafaxine",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 18.49
+      },
+      {
+        "name": "Terbinafine",
+        "category": "Antifungal",
+        "company": "Novartis",
+        "price": 9.99
+      },
+      {
+        "name": "Metronidazole",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 12.25
+      },
+      {
+        "name": "Lisinopril/Hydrochlorothiazide",
+        "category": "Blood Pressure Medication",
+        "company": "Merck",
+        "price": 15.49
+      },
+      {
+        "name": "Diazepam",
+        "category": "Anti-Anxiety",
+        "company": "Roche",
+        "price": 8.25
+      },
+      {
+        "name": "Furosemide",
+        "category": "Diuretic",
+        "company": "AstraZeneca",
+        "price": 11.75
+      },
+      {
+        "name": "Amiodarone",
+        "category": "Antiarrhythmic",
+        "company": "Bristol-Myers Squibb",
+        "price": 17.25
+      },
+      {
+        "name": "Pantoprazole",
+        "category": "Acid Reducer",
+        "company": "Eisai",
+        "price": 14.49
+      },
+      {
+        "name": "Phenytoin",
+        "category": "Anticonvulsant",
+        "company": "Pfizer",
+        "price": 16.75
+      },
+      {
+        "name": "Mupirocin",
+        "category": "Antibiotic Ointment",
+        "company": "GlaxoSmithKline",
+        "price": 10.99
+      },
+      {
+        "name": "Clotrimazole",
+        "category": "Antifungal",
+        "company": "Bayer",
+        "price": 12.99
+      },
+      {
+        "name": "Risperidone",
+        "category": "Antipsychotic",
+        "company": "Janssen Pharmaceuticals",
+        "price": 19.25
+      },
+      {
+        "name": "Atomoxetine",
+        "category": "ADHD Medication",
+        "company": "Eli Lilly",
+        "price": 17.49
+      },
+      {
+        "name": "Desipramine",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 14.75
+      },
+      {
+        "name": "Hydroxychloroquine",
+        "category": "Antimalarial",
+        "company": "Sanofi",
+        "price": 12.25
+      },
+      {
+        "name": "Buspirone",
+        "category": "Anti-Anxiety",
+        "company": "Bristol-Myers Squibb",
+        "price": 18.99
+      },
+      {
+        "name": "Metformin",
+        "category": "Diabetes Medication",
+        "company": "Merck",
+        "price": 13.49
+      },
+      {
+        "name": "Tolterodine Tartrate",
+        "category": "Bladder Medication",
+        "company": "GlaxoSmithKline",
+        "price": 9.75
+      },
+      {
+        "name": "Carvedilol",
+        "category": "Beta-Blocker",
+        "company": "GlaxoSmithKline",
+        "price": 15.99
+      },
+      {
+        "name": "Ropinirole",
+        "category": "Parkinson's Medication",
+        "company": "GlaxoSmithKline",
+        "price": 10.49
+      },
+      {
+        "name": "Ceftriaxone",
+        "category": "Antibiotic",
+        "company": "Roche",
+        "price": 16.99
+      },
+      {
+        "name": "Alprazolam",
+        "category": "Anti-Anxiety",
+        "company": "Pfizer",
+        "price": 11.75
+      },
+      {
+        "name": "Levofloxacin",
+        "category": "Antibiotic",
+        "company": "Johnson & Johnson",
+        "price": 17.25
+      },
+      {
+        "name": "Hydrocodone",
+        "category": "Pain Medication",
+        "company": "AbbVie",
+        "price": 14.99
+      },
+      {
+        "name": "Sertraline",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 19.49
+      },
+      {
+        "name": "Duloxetine",
+        "category": "Antidepressant",
+        "company": "Eli Lilly",
+        "price": 8.75
+      },
+      {
+        "name": "Trazodone",
+        "category": "Antidepressant",
+        "company": "AstraZeneca",
+        "price": 10.99
+      },
+      {
+        "name": "Diltiazem",
+        "category": "Blood Pressure Medication",
+        "company": "Pfizer",
+        "price": 12.99
+      },
+      {
+        "name": "Oxycodone",
+        "category": "Pain Medication",
+        "company": "Purdue Pharma",
+        "price": 15.25
+      },
+      {
+        "name": "Bupropion",
+        "category": "Antidepressant",
+        "company": "GlaxoSmithKline",
+        "price": 13.49
+      },
+      {
+        "name": "Naproxen Sodium",
+        "category": "Pain Reliever",
+        "company": "Aleve",
+        "price": 22.25
+      },
+      {
+        "name": "Fluticasone",
+        "category": "Nasal Spray",
+        "company": "GlaxoSmithKline",
+        "price": 9.99
+      },
+      {
+        "name": "Prednisolone Acetate",
+        "category": "Anti-Inflammatory",
+        "company": "Bayer",
+        "price": 16.75
+      },
+      {
+        "name": "Azithromycin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 13.25
+      },
+      {
+        "name": "Rabeprazole",
+        "category": "Acid Reducer",
+        "company": "Eisai",
+        "price": 20.49
+      },
+      {
+        "name": "Loratadine",
+        "category": "Antihistamine",
+        "company": "Bayer",
+        "price": 11.99
+      },
+      {
+        "name": "Carvedilol",
+        "category": "Beta-Blocker",
+        "company": "GlaxoSmithKline",
+        "price": 15.49
+      },
+      {
+        "name": "Aripiprazole",
+        "category": "Antipsychotic",
+        "company": "Otsuka Pharmaceutical",
+        "price": 22.99
+      },
+      {
+        "name": "Pregabalin",
+        "category": "Anticonvulsant",
+        "company": "Pfizer",
+        "price": 18.25
+      },
+      {
+        "name": "Cetirizine",
+        "category": "Antihistamine",
+        "company": "Johnson & Johnson",
+        "price": 14.49
+      },
+      {
+        "name": "Metoprolol Succinate",
+        "category": "Beta-Blocker",
+        "company": "AstraZeneca",
+        "price": 11.75
+      },
+      {
+        "name": "Famotidine",
+        "category": "Acid Reducer",
+        "company": "Pfizer",
+        "price": 19.99
+      },
+      {
+        "name": "Venlafaxine",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 13.49
+      },
+      {
+        "name": "Fluconazole",
+        "category": "Antifungal",
+        "company": "Pfizer",
+        "price": 17.75
+      },
+      {
+        "name": "Olanzapine",
+        "category": "Antipsychotic",
+        "company": "Eli Lilly",
+        "price": 10.99
+      },
+      {
+        "name": "Candesartan",
+        "category": "Blood Pressure Medication",
+        "company": "AstraZeneca",
+        "price": 16.49
+      },
+      {
+        "name": "Tadalafil",
+        "category": "Erectile Dysfunction Medication",
+        "company": "Eli Lilly",
+        "price": 12.25
+      },
+      {
+        "name": "Atenolol",
+        "category": "Beta-Blocker",
+        "company": "AstraZeneca",
+        "price": 20.49
+      },
+      {
+        "name": "Quetiapine",
+        "category": "Antipsychotic",
+        "company": "AstraZeneca",
+        "price": 9.75
+      },
+      {
+        "name": "Latanoprost",
+        "category": "Glaucoma Medication",
+        "company": "Pfizer",
+        "price": 14.99
+      },
+      {
+        "name": "Risperidone",
+        "category": "Antipsychotic",
+        "company": "Janssen Pharmaceuticals",
+        "price": 11.49
+      },
+      {
+        "name": "Methylprednisolone",
+        "category": "Anti-Inflammatory",
+        "company": "Pfizer",
+        "price": 8.75
+      },
+      {
+        "name": "Carbamazepine",
+        "category": "Anticonvulsant",
+        "company": "Novartis",
+        "price": 12.99
+      },
+      {
+        "name": "Escitalopram",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 17.25
+      },
+      {
+        "name": "Hydrochlorothiazide/Lisinopril",
+        "category": "Blood Pressure Medication",
+        "company": "AstraZeneca",
+        "price": 21.75
+      },
+      {
+        "name": "Fentanyl",
+        "category": "Pain Medication",
+        "company": "Johnson & Johnson",
+        "price": 14.99
+      },
+      {
+        "name": "Methylphenidate",
+        "category": "ADHD Medication",
+        "company": "Novartis",
+        "price": 16.49
+      },
+      {
+        "name": "Ropinirole",
+        "category": "Parkinson's Medication",
+        "company": "GlaxoSmithKline",
+        "price": 18.99
+      },
+      {
+        "name": "Ceftriaxone",
+        "category": "Antibiotic",
+        "company": "Roche",
+        "price": 20.25
+      },
+      {
+        "name": "Amitriptyline",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 9.99
+      },
+      {
+        "name": "Tramadol/Acetaminophen",
+        "category": "Pain Reliever",
+        "company": "Pfizer",
+        "price": 14.25
+      },
+      {
+        "name": "Dicyclomine",
+        "category": "Gastrointestinal Medication",
+        "company": "Pfizer",
+        "price": 22.99
+      },
+      {
+        "name": "Tolterodine",
+        "category": "Bladder Medication",
+        "company": "GlaxoSmithKline",
+        "price": 18.25
+      },
+      {
+        "name": "Nortriptyline",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 15.75
+      },
+      {
+        "name": "Risperidone",
+        "category": "Antipsychotic",
+        "company": "Janssen Pharmaceuticals",
+        "price": 11.99
+      },
+      {
+        "name": "Ciprofloxacin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 9.49
+      },
+      {
+        "name": "Memantine",
+        "category": "Alzheimer's Medication",
+        "company": "Merck",
+        "price": 16.25
+      },
+      {
+        "name": "Donepezil",
+        "category": "Alzheimer's Medication",
+        "company": "Eisai",
+        "price": 13.99
+      },
+      {
+        "name": "Fluvoxamine",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 21.75
+      },
+      {
+        "name": "Mirtazapine",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 9.49
+      },
+      {
+        "name": "Lamotrigine",
+        "category": "Anticonvulsant",
+        "company": "GlaxoSmithKline",
+        "price": 15.25
+      },
+      {
+        "name": "Escitalopram Oxalate",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 12.99
+      },
+      {
+        "name": "Diphenhydramine",
+        "category": "Antihistamine",
+        "company": "Johnson & Johnson",
+        "price": 18.25
+      },
+      {
+        "name": "Budesonide",
+        "category": "Anti-Inflammatory",
+        "company": "AstraZeneca",
+        "price": 14.99
+      },
+      {
+        "name": "Oxybutynin",
+        "category": "Bladder Medication",
+        "company": "Merck",
+        "price": 20.25
+      },
+      {
+        "name": "Clindamycin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 17.75
+      },
+      {
+        "name": "Tolterodine",
+        "category": "Bladder Medication",
+        "company": "GlaxoSmithKline",
+        "price": 15.49
+      },
+      {
+        "name": "Nortriptyline",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 13.25
+      },
+      {
+        "name": "Ropinirole",
+        "category": "Parkinson's Medication",
+        "company": "GlaxoSmithKline",
+        "price": 19.25
+      },
+      {
+        "name": "Ciprofloxacin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 11.99
+      },
+      {
+        "name": "Memantine",
+        "category": "Alzheimer's Medication",
+        "company": "Merck",
+        "price": 9.75
+      },
+      {
+        "name": "Donepezil",
+        "category": "Alzheimer's Medication",
+        "company": "Eisai",
+        "price": 8.49
+      },
+      {
+        "name": "Fluvoxamine",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 10.25
+      },
+      {
+        "name": "Mirtazapine",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 16.99
+      },
+      {
+        "name": "Lamotrigine",
+        "category": "Anticonvulsant",
+        "company": "GlaxoSmithKline",
+        "price": 12.75
+      },
+      {
+        "name": "Escitalopram Oxalate",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 21.49
+      },
+      {
+        "name": "Dicyclomine",
+        "category": "Gastrointestinal Medication",
+        "company": "Pfizer",
+        "price": 19.25
+      },
+      {
+        "name": "Ranitidine Hydrochloride",
+        "category": "Acid Reducer",
+        "company": "GlaxoSmithKline",
+        "price": 10.99
+      },
+      {
+        "name": "Atorvastatin",
+        "category": "Cholesterol Medication",
+        "company": "Pfizer",
+        "price": 21.25
+      },
+      {
+        "name": "Cephalexin",
+        "category": "Antibiotic",
+        "company": "GlaxoSmithKline",
+        "price": 12.99
+      },
+      {
+        "name": "Aripiprazole",
+        "category": "Antipsychotic",
+        "company": "Otsuka Pharmaceutical",
+        "price": 19.49
+      },
+      {
+        "name": "Dulcolax",
+        "category": "Laxative",
+        "company": "Bayer",
+        "price": 8.75
+      },
+      {
+        "name": "Fexofenadine",
+        "category": "Antihistamine",
+        "company": "Sanofi",
+        "price": 14.25
+      },
+      {
+        "name": "Citalopram",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 16.99
+      },
+      {
+        "name": "Prednisolone",
+        "category": "Anti-Inflammatory",
+        "company": "Pfizer",
+        "price": 11.49
+      },
+      {
+        "name": "Tamsulosin",
+        "category": "Prostate Medication",
+        "company": "Merck",
+        "price": 13.75
+      },
+      {
+        "name": "Diltiazem",
+        "category": "Blood Pressure Medication",
+        "company": "Pfizer",
+        "price": 10.49
+      },
+      {
+        "name": "Fluticasone/Salmeterol",
+        "category": "Asthma Medication",
+        "company": "GlaxoSmithKline",
+        "price": 22.99
+      },
+      {
+        "name": "Venlafaxine",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 18.49
+      },
+      {
+        "name": "Terbinafine",
+        "category": "Antifungal",
+        "company": "Novartis",
+        "price": 9.99
+      },
+      {
+        "name": "Metronidazole",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 12.25
+      },
+      {
+        "name": "Lisinopril/Hydrochlorothiazide",
+        "category": "Blood Pressure Medication",
+        "company": "Merck",
+        "price": 15.49
+      },
+      {
+        "name": "Diazepam",
+        "category": "Anti-Anxiety",
+        "company": "Roche",
+        "price": 8.25
+      },
+      {
+        "name": "Furosemide",
+        "category": "Diuretic",
+        "company": "AstraZeneca",
+        "price": 11.75
+      },
+      {
+        "name": "Amiodarone",
+        "category": "Antiarrhythmic",
+        "company": "Bristol-Myers Squibb",
+        "price": 17.25
+      },
+      {
+        "name": "Pantoprazole",
+        "category": "Acid Reducer",
+        "company": "Eisai",
+        "price": 14.49
+      },
+      {
+        "name": "Phenytoin",
+        "category": "Anticonvulsant",
+        "company": "Pfizer",
+        "price": 16.75
+      },
+      {
+        "name": "Mupirocin",
+        "category": "Antibiotic Ointment",
+        "company": "GlaxoSmithKline",
+        "price": 10.99
+      },
+      {
+        "name": "Clotrimazole",
+        "category": "Antifungal",
+        "company": "Bayer",
+        "price": 12.99
+      },
+      {
+        "name": "Risperidone",
+        "category": "Antipsychotic",
+        "company": "Janssen Pharmaceuticals",
+        "price": 19.25
+      },
+      {
+        "name": "Atomoxetine",
+        "category": "ADHD Medication",
+        "company": "Eli Lilly",
+        "price": 17.49
+      },
+      {
+        "name": "Desipramine",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 14.75
+      },
+      {
+        "name": "Hydroxychloroquine",
+        "category": "Antimalarial",
+        "company": "Sanofi",
+        "price": 12.25
+      },
+      {
+        "name": "Buspirone",
+        "category": "Anti-Anxiety",
+        "company": "Bristol-Myers Squibb",
+        "price": 18.99
+      },
+      {
+        "name": "Metformin",
+        "category": "Diabetes Medication",
+        "company": "Merck",
+        "price": 13.49
+      },
+      {
+        "name": "Tolterodine Tartrate",
+        "category": "Bladder Medication",
+        "company": "GlaxoSmithKline",
+        "price": 9.75
+      },
+      {
+        "name": "Carvedilol",
+        "category": "Beta-Blocker",
+        "company": "GlaxoSmithKline",
+        "price": 15.99
+      },
+      {
+        "name": "Ropinirole",
+        "category": "Parkinson's Medication",
+        "company": "GlaxoSmithKline",
+        "price": 10.49
+      },
+      {
+        "name": "Ceftriaxone",
+        "category": "Antibiotic",
+        "company": "Roche",
+        "price": 16.99
+      },
+      {
+        "name": "Alprazolam",
+        "category": "Anti-Anxiety",
+        "company": "Pfizer",
+        "price": 11.75
+      },
+      {
+        "name": "Levofloxacin",
+        "category": "Antibiotic",
+        "company": "Johnson & Johnson",
+        "price": 17.25
+      },
+      {
+        "name": "Hydrocodone",
+        "category": "Pain Medication",
+        "company": "AbbVie",
+        "price": 14.99
+      },
+      {
+        "name": "Sertraline",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 19.49
+      },
+      {
+        "name": "Duloxetine",
+        "category": "Antidepressant",
+        "company": "Eli Lilly",
+        "price": 8.75
+      },
+      {
+        "name": "Trazodone",
+        "category": "Antidepressant",
+        "company": "AstraZeneca",
+        "price": 10.99
+      },
+      {
+        "name": "Diltiazem",
+        "category": "Blood Pressure Medication",
+        "company": "Pfizer",
+        "price": 12.99
+      },
+      {
+        "name": "Oxycodone",
+        "category": "Pain Medication",
+        "company": "Purdue Pharma",
+        "price": 15.25
+      },
+      {
+        "name": "Bupropion",
+        "category": "Antidepressant",
+        "company": "GlaxoSmithKline",
+        "price": 13.49
+      },
+      {
+        "name": "Naproxen Sodium",
+        "category": "Pain Reliever",
+        "company": "Aleve",
+        "price": 22.25
+      },
+      {
+        "name": "Fluticasone",
+        "category": "Nasal Spray",
+        "company": "GlaxoSmithKline",
+        "price": 9.99
+      },
+      {
+        "name": "Prednisolone Acetate",
+        "category": "Anti-Inflammatory",
+        "company": "Bayer",
+        "price": 16.75
+      },
+      {
+        "name": "Azithromycin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 13.25
+      },
+      {
+        "name": "Rabeprazole",
+        "category": "Acid Reducer",
+        "company": "Eisai",
+        "price": 20.49
+      },
+      {
+        "name": "Loratadine",
+        "category": "Antihistamine",
+        "company": "Bayer",
+        "price": 11.99
+      },
+      {
+        "name": "Carvedilol",
+        "category": "Beta-Blocker",
+        "company": "GlaxoSmithKline",
+        "price": 15.49
+      },
+      {
+        "name": "Aripiprazole",
+        "category": "Antipsychotic",
+        "company": "Otsuka Pharmaceutical",
+        "price": 22.99
+      },
+      {
+        "name": "Pregabalin",
+        "category": "Anticonvulsant",
+        "company": "Pfizer",
+        "price": 18.25
+      },
+      {
+        "name": "Cetirizine",
+        "category": "Antihistamine",
+        "company": "Johnson & Johnson",
+        "price": 14.49
+      },
+      {
+        "name": "Metoprolol Succinate",
+        "category": "Beta-Blocker",
+        "company": "AstraZeneca",
+        "price": 11.75
+      },
+      {
+        "name": "Famotidine",
+        "category": "Acid Reducer",
+        "company": "Pfizer",
+        "price": 19.99
+      },
+      {
+        "name": "Venlafaxine",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 13.49
+      },
+      {
+        "name": "Fluconazole",
+        "category": "Antifungal",
+        "company": "Pfizer",
+        "price": 17.75
+      },
+      {
+        "name": "Olanzapine",
+        "category": "Antipsychotic",
+        "company": "Eli Lilly",
+        "price": 10.99
+      },
+      {
+        "name": "Candesartan",
+        "category": "Blood Pressure Medication",
+        "company": "AstraZeneca",
+        "price": 16.49
+      },
+      {
+        "name": "Tadalafil",
+        "category": "Erectile Dysfunction Medication",
+        "company": "Eli Lilly",
+        "price": 12.25
+      },
+      {
+        "name": "Atenolol",
+        "category": "Beta-Blocker",
+        "company": "AstraZeneca",
+        "price": 20.49
+      },
+      {
+        "name": "Quetiapine",
+        "category": "Antipsychotic",
+        "company": "AstraZeneca",
+        "price": 9.75
+      },
+      {
+        "name": "Latanoprost",
+        "category": "Glaucoma Medication",
+        "company": "Pfizer",
+        "price": 14.99
+      },
+      {
+        "name": "Risperidone",
+        "category": "Antipsychotic",
+        "company": "Janssen Pharmaceuticals",
+        "price": 11.49
+      },
+      {
+        "name": "Methylprednisolone",
+        "category": "Anti-Inflammatory",
+        "company": "Pfizer",
+        "price": 8.75
+      },
+      {
+        "name": "Carbamazepine",
+        "category": "Anticonvulsant",
+        "company": "Novartis",
+        "price": 12.99
+      },
+      {
+        "name": "Escitalopram",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 17.25
+      },
+      {
+        "name": "Hydrochlorothiazide/Lisinopril",
+        "category": "Blood Pressure Medication",
+        "company": "AstraZeneca",
+        "price": 21.75
+      },
+      {
+        "name": "Fentanyl",
+        "category": "Pain Medication",
+        "company": "Johnson & Johnson",
+        "price": 14.99
+      },
+      {
+        "name": "Methylphenidate",
+        "category": "ADHD Medication",
+        "company": "Novartis",
+        "price": 16.49
+      },
+      {
+        "name": "Ropinirole",
+        "category": "Parkinson's Medication",
+        "company": "GlaxoSmithKline",
+        "price": 18.99
+      },
+      {
+        "name": "Ceftriaxone",
+        "category": "Antibiotic",
+        "company": "Roche",
+        "price": 20.25
+      },
+      {
+        "name": "Amitriptyline",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 9.99
+      },
+      {
+        "name": "Tramadol/Acetaminophen",
+        "category": "Pain Reliever",
+        "company": "Pfizer",
+        "price": 14.25
+      },
+      {
+        "name": "Dicyclomine",
+        "category": "Gastrointestinal Medication",
+        "company": "Pfizer",
+        "price": 22.99
+      },
+      {
+        "name": "Tolterodine",
+        "category": "Bladder Medication",
+        "company": "GlaxoSmithKline",
+        "price": 18.25
+      },
+      {
+        "name": "Nortriptyline",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 15.75
+      },
+      {
+        "name": "Risperidone",
+        "category": "Antipsychotic",
+        "company": "Janssen Pharmaceuticals",
+        "price": 11.99
+      },
+      {
+        "name": "Ciprofloxacin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 9.49
+      },
+      {
+        "name": "Memantine",
+        "category": "Alzheimer's Medication",
+        "company": "Merck",
+        "price": 16.25
+      },
+      {
+        "name": "Donepezil",
+        "category": "Alzheimer's Medication",
+        "company": "Eisai",
+        "price": 13.99
+      },
+      {
+        "name": "Fluvoxamine",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 21.75
+      },
+      {
+        "name": "Mirtazapine",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 9.49
+      },
+      {
+        "name": "Lamotrigine",
+        "category": "Anticonvulsant",
+        "company": "GlaxoSmithKline",
+        "price": 15.25
+      },
+      {
+        "name": "Escitalopram Oxalate",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 12.99
+      },
+      {
+        "name": "Diphenhydramine",
+        "category": "Antihistamine",
+        "company": "Johnson & Johnson",
+        "price": 18.25
+      },
+      {
+        "name": "Budesonide",
+        "category": "Anti-Inflammatory",
+        "company": "AstraZeneca",
+        "price": 14.99
+      },
+      {
+        "name": "Oxybutynin",
+        "category": "Bladder Medication",
+        "company": "Merck",
+        "price": 20.25
+      },
+      {
+        "name": "Clindamycin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 17.75
+      },
+      {
+        "name": "Tolterodine",
+        "category": "Bladder Medication",
+        "company": "GlaxoSmithKline",
+        "price": 15.49
+      },
+      {
+        "name": "Nortriptyline",
+        "category": "Antidepressant",
+        "company": "Pfizer",
+        "price": 13.25
+      },
+      {
+        "name": "Ropinirole",
+        "category": "Parkinson's Medication",
+        "company": "GlaxoSmithKline",
+        "price": 19.25
+      },
+      {
+        "name": "Ciprofloxacin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 11.99
+      },
+      {
+        "name": "Memantine",
+        "category": "Alzheimer's Medication",
+        "company": "Merck",
+        "price": 9.75
+      },
+      {
+        "name": "Donepezil",
+        "category": "Alzheimer's Medication",
+        "company": "Eisai",
+        "price": 8.49
+      },
+      {
+        "name": "Fluvoxamine",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 10.25
+      },
+      {
+        "name": "Mirtazapine",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 16.99
+      },
+      {
+        "name": "Lamotrigine",
+        "category": "Anticonvulsant",
+        "company": "GlaxoSmithKline",
+        "price": 12.75
+      },
+      {
+        "name": "Escitalopram Oxalate",
+        "category": "Antidepressant",
+        "company": "Forest Laboratories",
+        "price": 21.49
+      },
+      {
+        "name": "Dicyclomine",
+        "category": "Gastrointestinal Medication",
+        "company": "Pfizer",
+        "price": 19.25
+      },
+      {
+        "name": "Ranitidine Hydrochloride",
+        "category": "Acid Reducer",
+        "company": "GlaxoSmithKline",
+        "price": 10.99
+      },
+      {
+        "name": "Levofloxacin",
+        "category": "Antibiotic",
+        "company": "AstraZeneca",
+        "price": 13.99
+      },
+      {
+        "name": "Lisinopril",
+        "category": "Antihypertensive",
+        "company": "Merck",
+        "price": 11.49
+      },
+      {
+        "name": "Montelukast",
+        "category": "Respiratory Medication",
+        "company": "Pfizer",
+        "price": 17.75
+      },
+      {
+        "name": "Mirtazapine",
+        "category": "Antidepressant",
+        "company": "GSK Pharmaceuticals",
+        "price": 9.25
+      },
+      {
+        "name": "Metformin",
+        "category": "Antidiabetic",
+        "company": "AstraZeneca",
+        "price": 16.49
+      },
+      {
+        "name": "Omeprazole",
+        "category": "Proton Pump Inhibitor",
+        "company": "Merck",
+        "price": 12.99
+      },
+      {
+        "name": "Pravastatin",
+        "category": "Cholesterol Lowering",
+        "company": "Pfizer",
+        "price": 18.75
+      },
+      {
+        "name": "Sildenafil",
+        "category": "Erectile Dysfunction",
+        "company": "AstraZeneca",
+        "price": 10.49
+      },
+      {
+        "name": "Tamsulosin",
+        "category": "Prostate Medication",
+        "company": "GSK Pharmaceuticals",
+        "price": 15.25
+      },
+      {
+        "name": "Venlafaxine",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 21.99
+      },
+      {
+        "name": "Warfarin",
+        "category": "Anticoagulant",
+        "company": "Pfizer",
+        "price": 13.49
+      },
+      {
+        "name": "Atorvastatin",
+        "category": "Cholesterol Lowering",
+        "company": "AstraZeneca",
+        "price": 19.25
+      },
+      {
+        "name": "Diazepam",
+        "category": "Anti-Anxiety",
+        "company": "GSK Pharmaceuticals",
+        "price": 8.75
+      },
+      {
+        "name": "Tramadol",
+        "category": "Pain Reliever",
+        "company": "Merck",
+        "price": 14.49
+      },
+      {
+        "name": "Cephalexin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 20.99
+      },
+      {
+        "name": "Trazodone",
+        "category": "Antidepressant",
+        "company": "AstraZeneca",
+        "price": 11.75
+      },
+      {
+        "name": "Naproxen",
+        "category": "Pain Reliever",
+        "company": "GSK Pharmaceuticals",
+        "price": 17.25
+      },
+      {
+        "name": "Furosemide",
+        "category": "Diuretic",
+        "company": "Merck",
+        "price": 15.99
+      },
+      {
+        "name": "Clopidogrel",
+        "category": "Antiplatelet",
+        "company": "AstraZeneca",
+        "price": 10.99
+      },
+      {
+        "name": "Alendronate",
+        "category": "Osteoporosis Medication",
+        "company": "Pfizer",
+        "price": 16.25
+      },
+      {
+        "name": "Pantoprazole",
+        "category": "Proton Pump Inhibitor",
+        "company": "GSK Pharmaceuticals",
+        "price": 12.49
+      },
+      {
+        "name": "Metoprolol",
+        "category": "Beta Blocker",
+        "company": "AstraZeneca",
+        "price": 18.99
+      },
+      {
+        "name": "Risperidone",
+        "category": "Antipsychotic",
+        "company": "Merck",
+        "price": 9.75
+      },
+      {
+        "name": "Fluticasone",
+        "category": "Corticosteroid",
+        "company": "Pfizer",
+        "price": 14.99
+      },
+      {
+        "name": "Citalopram",
+        "category": "Antidepressant",
+        "company": "AstraZeneca",
+        "price": 10.75
+      },
+      {
+        "name": "Amlodipine",
+        "category": "Antihypertensive",
+        "company": "GSK Pharmaceuticals",
+        "price": 16.49
+      },
+      {
+        "name": "Sertraline",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 12.99
+      },
+      {
+        "name": "Hydrocodone",
+        "category": "Pain Reliever",
+        "company": "Pfizer",
+        "price": 19.75
+      },
+      {
+        "name": "Ibuprofen",
+        "category": "Pain Reliever",
+        "company": "AstraZeneca",
+        "price": 11.49
+      },
+      {
+        "name": "Amoxicillin",
+        "category": "Antibiotic",
+        "company": "GSK Pharmaceuticals",
+        "price": 20.49
+      },
+      {
+        "name": "Azithromycin",
+        "category": "Antibiotic",
+        "company": "Merck",
+        "price": 8.49
+      },
+      {
+        "name": "Prednisone",
+        "category": "Corticosteroid",
+        "company": "Pfizer",
+        "price": 14.25
+      },
+      {
+        "name": "Ciprofloxacin",
+        "category": "Antibiotic",
+        "company": "AstraZeneca",
+        "price": 21.75
+      },
+      {
+        "name": "Escitalopram",
+        "category": "Antidepressant",
+        "company": "GSK Pharmaceuticals",
+        "price": 10.99
+      },
+      {
+        "name": "Duloxetine",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 18.49
+      },
+      {
+        "name": "Losartan",
+        "category": "Antihypertensive",
+        "company": "Pfizer",
+        "price": 9.49
+      },
+      {
+        "name": "Ondansetron",
+        "category": "Antiemetic",
+        "company": "AstraZeneca",
+        "price": 15.75
+      },
+      {
+        "name": "Simvastatin",
+        "category": "Cholesterol Lowering",
+        "company": "Merck",
+        "price": 20.99
+      },
+      {
+        "name": "Bupropion",
+        "category": "Antidepressant",
+        "company": "GSK Pharmaceuticals",
+        "price": 11.49
+      },
+      {
+        "name": "Pregabalin",
+        "category": "Anticonvulsant",
+        "company": "Pfizer",
+        "price": 17.99
+      },
+      {
+        "name": "Ranitidine",
+        "category": "H2 Blocker",
+        "company": "AstraZeneca",
+        "price": 12.75
+      },
+      {
+        "name": "Venlafaxine",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 19.99
+      },
+      {
+        "name": "Carvedilol",
+        "category": "Beta Blocker",
+        "company": "Pfizer",
+        "price": 8.99
+      },
+      {
+        "name": "Loratadine",
+        "category": "Antihistamine",
+        "company": "GSK Pharmaceuticals",
+        "price": 15.49
+      },
+      {
+        "name": "Metronidazole",
+        "category": "Antibiotic",
+        "company": "AstraZeneca",
+        "price": 9.25
+      },
+      {
+        "name": "Tramadol",
+        "category": "Pain Reliever",
+        "company": "Merck",
+        "price": 16.99
+      },
+      {
+        "name": "Cephalexin",
+        "category": "Antibiotic",
+        "company": "Pfizer",
+        "price": 10.75
+      },
+      {
+        "name": "Trazodone",
+        "category": "Antidepressant",
+        "company": "AstraZeneca",
+        "price": 18.25
+      },
+      {
+        "name": "Amitriptyline",
+        "category": "Antidepressant",
+        "company": "Merck",
+        "price": 14.75
+      },
+      {
+        "name": "Ibuprofen",
+        "category": "Pain Reliever",
+        "company": "GSK Pharmaceuticals",
+        "price": 9.75
+      }      
     ]
 }
 
