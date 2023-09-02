@@ -6000,8 +6000,9 @@ const medicines = {
         "company": "GSK Pharmaceuticals",
         "price": 9.75
       }      
-    ],
-    "count" : this.medicines.length
+    ]
 }
+
+medicines.count  = medicines.medicines.length
 
 module.exports = medicines;
