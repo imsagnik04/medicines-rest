@@ -6004,5 +6004,9 @@ const medicines = {
 }
 
 medicines.count  = medicines.medicines.length
+medicines.medicines.forEach(medicine => {
+    let randQuantity = Math.floor(Math.random() * (100 - 1 + 1) + 1)
+    medicine.quantity = randQuantity;
+})
 
 module.exports = medicines;
